@@ -1,0 +1,14 @@
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\bin\Debug\net8.0\Examen.exe
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\bin\Debug\net8.0\Examen.deps.json
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\bin\Debug\net8.0\Examen.runtimeconfig.json
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\bin\Debug\net8.0\Examen.dll
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\bin\Debug\net8.0\Examen.pdb
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\obj\Debug\net8.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\obj\Debug\net8.0\Examen.AssemblyInfoInputs.cache
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\obj\Debug\net8.0\Examen.AssemblyInfo.cs
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\obj\Debug\net8.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\obj\Debug\net8.0\Examen.dll
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\obj\Debug\net8.0\refint\Examen.dll
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\obj\Debug\net8.0\Examen.pdb
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\obj\Debug\net8.0\Examen.genruntimeconfig.cache
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\Web Avanzado\Primer Parcial\Examen\Examen\obj\Debug\net8.0\ref\Examen.dll
